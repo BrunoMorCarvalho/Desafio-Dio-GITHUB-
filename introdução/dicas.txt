@@ -1,0 +1,2 @@
+git bash é um terminal apenas para o uso do git 
+commit são uteis
